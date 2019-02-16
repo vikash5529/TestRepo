@@ -1,3 +1,3 @@
-const method = ()=>{
-    console.log("hello");
-}
+const method = () => {
+  console.log('hello this is vikas');
+};
